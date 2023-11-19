@@ -1,0 +1,333 @@
+===========================
+Data 1 - Name: Luke Skywalker
+Data 1 - Height: 172 cm
+Data 1 - Mass: 77 kg
+===========================
+Data 2 - Name: C-3PO
+Data 2 - Height: 167 cm
+Data 2 - Mass: 75 kg
+===========================
+Data 3 - Name: R2-D2
+Data 3 - Height: 96 cm
+Data 3 - Mass: 32 kg
+===========================
+Data 4 - Name: Darth Vader
+Data 4 - Height: 202 cm
+Data 4 - Mass: 136 kg
+===========================
+Data 5 - Name: Leia Organa
+Data 5 - Height: 150 cm
+Data 5 - Mass: 49 kg
+===========================
+Data 6 - Name: Owen Lars
+Data 6 - Height: 178 cm
+Data 6 - Mass: 120 kg
+===========================
+Data 7 - Name: Beru Whitesun lars
+Data 7 - Height: 165 cm
+Data 7 - Mass: 75 kg
+===========================
+Data 8 - Name: R5-D4
+Data 8 - Height: 97 cm
+Data 8 - Mass: 32 kg
+===========================
+Data 9 - Name: Biggs Darklighter
+Data 9 - Height: 183 cm
+Data 9 - Mass: 84 kg
+===========================
+Data 10 - Name: Obi-Wan Kenobi
+Data 10 - Height: 182 cm
+Data 10 - Mass: 77 kg
+===========================
+Data 11 - Name: Anakin Skywalker
+Data 11 - Height: 188 cm
+Data 11 - Mass: 84 kg
+===========================
+Data 12 - Name: Wilhuff Tarkin
+Data 12 - Height: 180 cm
+Data 12 - Mass: unknown kg
+===========================
+Data 13 - Name: Chewbacca
+Data 13 - Height: 228 cm
+Data 13 - Mass: 112 kg
+===========================
+Data 14 - Name: Han Solo
+Data 14 - Height: 180 cm
+Data 14 - Mass: 80 kg
+===========================
+Data 15 - Name: Greedo
+Data 15 - Height: 173 cm
+Data 15 - Mass: 74 kg
+===========================
+Data 16 - Name: Jabba Desilijic Tiure
+Data 16 - Height: 175 cm
+Data 16 - Mass: 1,358 kg
+===========================
+Data 17: Error - Failed to fetch data
+===========================
+Data 18: Error - Failed to fetch data
+===========================
+Data 18 - Name: Wedge Antilles
+Data 18 - Height: 170 cm
+Data 18 - Mass: 77 kg
+===========================
+Data 19 - Name: Jek Tono Porkins
+Data 19 - Height: 180 cm
+Data 19 - Mass: 110 kg
+===========================
+Data 20 - Name: Yoda
+Data 20 - Height: 66 cm
+Data 20 - Mass: 17 kg
+===========================
+Data 21 - Name: Palpatine
+Data 21 - Height: 170 cm
+Data 21 - Mass: 75 kg
+===========================
+Data 22 - Name: Boba Fett
+Data 22 - Height: 183 cm
+Data 22 - Mass: 78.2 kg
+===========================
+Data 23 - Name: IG-88
+Data 23 - Height: 200 cm
+Data 23 - Mass: 140 kg
+===========================
+Data 24 - Name: Bossk
+Data 24 - Height: 190 cm
+Data 24 - Mass: 113 kg
+===========================
+Data 25 - Name: Lando Calrissian
+Data 25 - Height: 177 cm
+Data 25 - Mass: 79 kg
+===========================
+Data 26 - Name: Lobot
+Data 26 - Height: 175 cm
+Data 26 - Mass: 79 kg
+===========================
+Data 27 - Name: Ackbar
+Data 27 - Height: 180 cm
+Data 27 - Mass: 83 kg
+===========================
+Data 28 - Name: Mon Mothma
+Data 28 - Height: 150 cm
+Data 28 - Mass: unknown kg
+===========================
+Data 29 - Name: Arvel Crynyd
+Data 29 - Height: unknown cm
+Data 29 - Mass: unknown kg
+===========================
+Data 30 - Name: Wicket Systri Warrick
+Data 30 - Height: 88 cm
+Data 30 - Mass: 20 kg
+===========================
+Data 31 - Name: Nien Nunb
+Data 31 - Height: 160 cm
+Data 31 - Mass: 68 kg
+===========================
+Data 32 - Name: Qui-Gon Jinn
+Data 32 - Height: 193 cm
+Data 32 - Mass: 89 kg
+===========================
+Data 33 - Name: Nute Gunray
+Data 33 - Height: 191 cm
+Data 33 - Mass: 90 kg
+===========================
+Data 34 - Name: Finis Valorum
+Data 34 - Height: 170 cm
+Data 34 - Mass: unknown kg
+===========================
+Data 35 - Name: Padm� Amidala
+Data 35 - Height: 185 cm
+Data 35 - Mass: 45 kg
+===========================
+Data 36 - Name: Jar Jar Binks
+Data 36 - Height: 196 cm
+Data 36 - Mass: 66 kg
+===========================
+Data 37 - Name: Roos Tarpals
+Data 37 - Height: 224 cm
+Data 37 - Mass: 82 kg
+===========================
+Data 38 - Name: Rugor Nass
+Data 38 - Height: 206 cm
+Data 38 - Mass: unknown kg
+===========================
+Data 39 - Name: Ric Oli�
+Data 39 - Height: 183 cm
+Data 39 - Mass: unknown kg
+===========================
+Data 40 - Name: Watto
+Data 40 - Height: 137 cm
+Data 40 - Mass: unknown kg
+===========================
+Data 41 - Name: Sebulba
+Data 41 - Height: 112 cm
+Data 41 - Mass: 40 kg
+===========================
+Data 42 - Name: Quarsh Panaka
+Data 42 - Height: 183 cm
+Data 42 - Mass: unknown kg
+===========================
+Data 43 - Name: Shmi Skywalker
+Data 43 - Height: 163 cm
+Data 43 - Mass: unknown kg
+===========================
+Data 44 - Name: Darth Maul
+Data 44 - Height: 175 cm
+Data 44 - Mass: 80 kg
+===========================
+Data 45 - Name: Bib Fortuna
+Data 45 - Height: 180 cm
+Data 45 - Mass: unknown kg
+===========================
+Data 46 - Name: Ayla Secura
+Data 46 - Height: 178 cm
+Data 46 - Mass: 55 kg
+===========================
+Data 47 - Name: Ratts Tyerel
+Data 47 - Height: 79 cm
+Data 47 - Mass: 15 kg
+===========================
+Data 48 - Name: Dud Bolt
+Data 48 - Height: 94 cm
+Data 48 - Mass: 45 kg
+===========================
+Data 49 - Name: Gasgano
+Data 49 - Height: 122 cm
+Data 49 - Mass: unknown kg
+===========================
+Data 50 - Name: Ben Quadinaros
+Data 50 - Height: 163 cm
+Data 50 - Mass: 65 kg
+===========================
+Data 51 - Name: Mace Windu
+Data 51 - Height: 188 cm
+Data 51 - Mass: 84 kg
+===========================
+Data 52 - Name: Ki-Adi-Mundi
+Data 52 - Height: 198 cm
+Data 52 - Mass: 82 kg
+===========================
+Data 53 - Name: Kit Fisto
+Data 53 - Height: 196 cm
+Data 53 - Mass: 87 kg
+===========================
+Data 54 - Name: Eeth Koth
+Data 54 - Height: 171 cm
+Data 54 - Mass: unknown kg
+===========================
+Data 55 - Name: Adi Gallia
+Data 55 - Height: 184 cm
+Data 55 - Mass: 50 kg
+===========================
+Data 56 - Name: Saesee Tiin
+Data 56 - Height: 188 cm
+Data 56 - Mass: unknown kg
+===========================
+Data 57 - Name: Yarael Poof
+Data 57 - Height: 264 cm
+Data 57 - Mass: unknown kg
+===========================
+Data 58 - Name: Plo Koon
+Data 58 - Height: 188 cm
+Data 58 - Mass: 80 kg
+===========================
+Data 59 - Name: Mas Amedda
+Data 59 - Height: 196 cm
+Data 59 - Mass: unknown kg
+===========================
+Data 60 - Name: Gregar Typho
+Data 60 - Height: 185 cm
+Data 60 - Mass: 85 kg
+===========================
+Data 61 - Name: Cord�
+Data 61 - Height: 157 cm
+Data 61 - Mass: unknown kg
+===========================
+Data 62 - Name: Cliegg Lars
+Data 62 - Height: 183 cm
+Data 62 - Mass: unknown kg
+===========================
+Data 63 - Name: Poggle the Lesser
+Data 63 - Height: 183 cm
+Data 63 - Mass: 80 kg
+===========================
+Data 64 - Name: Luminara Unduli
+Data 64 - Height: 170 cm
+Data 64 - Mass: 56.2 kg
+===========================
+Data 65 - Name: Barriss Offee
+Data 65 - Height: 166 cm
+Data 65 - Mass: 50 kg
+===========================
+Data 66 - Name: Dorm�
+Data 66 - Height: 165 cm
+Data 66 - Mass: unknown kg
+===========================
+Data 67 - Name: Dooku
+Data 67 - Height: 193 cm
+Data 67 - Mass: 80 kg
+===========================
+Data 68 - Name: Bail Prestor Organa
+Data 68 - Height: 191 cm
+Data 68 - Mass: unknown kg
+===========================
+Data 69 - Name: Jango Fett
+Data 69 - Height: 183 cm
+Data 69 - Mass: 79 kg
+===========================
+Data 70 - Name: Zam Wesell
+Data 70 - Height: 168 cm
+Data 70 - Mass: 55 kg
+===========================
+Data 71 - Name: Dexter Jettster
+Data 71 - Height: 198 cm
+Data 71 - Mass: 102 kg
+===========================
+Data 72 - Name: Lama Su
+Data 72 - Height: 229 cm
+Data 72 - Mass: 88 kg
+===========================
+Data 73 - Name: Taun We
+Data 73 - Height: 213 cm
+Data 73 - Mass: unknown kg
+===========================
+Data 74 - Name: Jocasta Nu
+Data 74 - Height: 167 cm
+Data 74 - Mass: unknown kg
+===========================
+Data 75 - Name: R4-P17
+Data 75 - Height: 96 cm
+Data 75 - Mass: unknown kg
+===========================
+Data 76 - Name: Wat Tambor
+Data 76 - Height: 193 cm
+Data 76 - Mass: 48 kg
+===========================
+Data 77 - Name: San Hill
+Data 77 - Height: 191 cm
+Data 77 - Mass: unknown kg
+===========================
+Data 78 - Name: Shaak Ti
+Data 78 - Height: 178 cm
+Data 78 - Mass: 57 kg
+===========================
+Data 79 - Name: Grievous
+Data 79 - Height: 216 cm
+Data 79 - Mass: 159 kg
+===========================
+Data 80 - Name: Tarfful
+Data 80 - Height: 234 cm
+Data 80 - Mass: 136 kg
+===========================
+Data 81 - Name: Raymus Antilles
+Data 81 - Height: 188 cm
+Data 81 - Mass: 79 kg
+===========================
+Data 82 - Name: Sly Moore
+Data 82 - Height: 178 cm
+Data 82 - Mass: 48 kg
+=========================== 
+Data 83 - Name: Tion Medon
+Data 83 - Height: 206 cm
+Data 83 - Mass: 80 kg
+=========================== 
