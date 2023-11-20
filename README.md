@@ -50,7 +50,7 @@ Install my-project with npm
 Basic Usage :
 
 ```python
-from starwars import StarWarsGalaxyAPI
+from starwarsdata.starwars import StarWarsGalaxyAPI
 
 # Create an instance of StarWarsGalaxyAPI
 sw_api = StarWarsGalaxyAPI()
